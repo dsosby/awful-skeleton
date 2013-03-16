@@ -1,5 +1,5 @@
 (use test)
-(load "bigbutton.scm")
+(load "run.scm")
 
 (test-group "as-model"
   (test '() (as-model '()))
