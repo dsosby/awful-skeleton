@@ -1,0 +1,14 @@
+#dev-mode-container {
+    position: absolute;
+    top: 0;
+    left: 10;
+    width: 15em;
+    font-size: 0.8em;
+}
+
+#dev-mode-container li {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+}
