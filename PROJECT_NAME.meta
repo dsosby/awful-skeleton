@@ -1,0 +1,5 @@
+((license "BSD")
+ (category web)
+ (depends awful ersatz ezersatz)
+ (test-depends test)
+ (synopsis "A basic Awful application using Skeleton"))
