@@ -1,5 +1,5 @@
 (use test)
-(load "run.scm")
+(load-relative "../run.scm")
 
 (test-group "as-model"
   (test '() (as-model '()))
